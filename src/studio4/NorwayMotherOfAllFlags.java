@@ -30,7 +30,7 @@ public class NorwayMotherOfAllFlags {
 
 	public static void france() {
 		
-		// TODO
+		
 	}
 
 	public static void indonesia() {
@@ -50,12 +50,17 @@ public class NorwayMotherOfAllFlags {
 
 	public static void thailand() {
 		
-		// TODO
+		StdDraw.setXscale(10, 22);
+		StdDraw.setYscale(5, 11);
+		mother();
 	}
 
 	public static void finland() {
 		
-		// TODO
+		StdDraw.setXscale(5, 14);
+		StdDraw.setYscale(6, 10);
+		mother();
+	
 	}
 
 	public static void main(String[] args) {
